@@ -1,8 +1,8 @@
 {
   "name": "slush-amg-angular",
   "description": "foo",
-  "version": "0.1.0",
-  "homepage": "https://github.com/amartin/slush-amg-angular",
+  "version": "0.1.2",
+  "homepage": "https://github.com/adam-martin/slush-amg-angular",
   "author": {
     "name": "adam.martin",
     "email": "im.adam.martin@gmail.com"

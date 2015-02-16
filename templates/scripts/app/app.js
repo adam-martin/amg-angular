@@ -1,6 +1,6 @@
 'use strict';
 
 angular
-    .module('<%= nameApp %>', [
+    .module('<%= appName %>', [
         'ngRoute'
     ]);
