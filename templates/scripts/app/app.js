@@ -3,7 +3,7 @@
 /**
  * @ngdoc overview
  * @name <%= appName %>
- * @description <%= appDesription %>
+ * @description <%= appDescription %>
  * # <%= appName %>
  *
  * Main module of the application.
