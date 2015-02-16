@@ -1,0 +1,45 @@
+{
+  "name": "slush-amg-angular",
+  "description": "foo",
+  "version": "0.1.0",
+  "homepage": "https://github.com/amartin/slush-amg-angular",
+  "author": {
+    "name": "adam.martin",
+    "email": "im.adam.martin@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adam-martin/slush-amg-angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adam-martin/slush-amg-angular"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/adam-martin/slush-amg-angular/blob/master/LICENSE"
+    }
+  ],
+  "main": "slushfile.js",
+  "engines": {
+    "node": ">= 0.10.26",
+    "npm": ">=1.4.3"
+  },
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "dependencies": {
+    "slush": ">=1.0.0",
+    "gulp": "^3.6.2",
+    "gulp-template": "^0.1.1",
+    "gulp-install": "^0.1.4",
+    "gulp-conflict": "^0.1.1",
+    "gulp-rename": "^1.2.0",
+    "underscore.string": "^2.3.3",
+    "inquirer": "^0.4.1",
+    "iniparser": "^1.0.5"
+  },
+  "keywords": [
+    "slushgenerator"
+  ]
+}
